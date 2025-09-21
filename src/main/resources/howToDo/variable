@@ -1,0 +1,25 @@
+
+
+🔹 What is a Variable?
+
+	A variable is a named storage location in memory used to hold data.
+	it is a place holder in the memory
+
+🔹 Types of Variables
+
+By Scope (where they are declared):
+
+		Local Variable – inside methods/blocks, exists only while the method runs.
+		
+		Instance Variable – inside a class but outside methods, each object has its own copy.
+		
+		Static (Class) Variable – declared with static, shared by all objects of the class.
+
+
+🔹 Rules for Naming Variables
+
+		Must start with a letter, _, or $
+		
+		Cannot start with a digit or use reserved keywords
+		
+		Use camelCase convention for readability
